@@ -57,7 +57,7 @@
 
 -----
 
-4. Here, a script.html file created to deploy.
+4. Here, a index.html file created to deploy.
 
 5.  Run the Server by using **python3 -m http.server 8000**
 
