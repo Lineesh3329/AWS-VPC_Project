@@ -1,3 +1,5 @@
+This **index.html** is deployed in this project
+
       <!DOCTYPE html>
       <html lang="en">
       
@@ -212,3 +214,8 @@
       </body>
       
       </html>
+
+
+
+This gives the below output
+
