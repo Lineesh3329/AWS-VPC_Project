@@ -1,4 +1,4 @@
-This **index.html** is deployed in this project
+This **script.html** is deployed in this project
 
       <!DOCTYPE html>
       <html lang="en">
