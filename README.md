@@ -1,4 +1,4 @@
-# **AWS DevOps Infrastructure Project with Secure VPC Architecture, Private Subnets, NAT Gateway, ASG and ALB**
+# `AWS DevOps Infrastructure Project with Secure VPC Architecture, NAT Gateway, ASG and ALB`
 
 ## About the Project
 This project demonstrates a secure and scalable AWS infrastructure using VPC, private subnets, NAT Gateway, ALB, EC2, and Auto Scaling Group (ASG).
@@ -28,6 +28,7 @@ This project provides hands-on experience with AWS networking, load balancing, a
 6. Configured Target Group and ALB
 7. Verified load-balanced traffic flow
 8. Access application via Load Balancer DNS Name
+------
 
 ## Project Workflow
 1. User requests are received by the Application Load Balancer (ALB).
@@ -37,6 +38,19 @@ This project provides hands-on experience with AWS networking, load balancing, a
 5. NAT Gateway enables private EC2 instances to securely access the internet.
 6. The VPC manages networking, routing, and secure communication between resources.
 
-  
         Users → ALB → Target Group → Private EC2 Instances → ASG Scaling → NAT Gateway → Internet
+------
 
+## Learning Outcome
+- AWS VPC architecture
+- NAT Gateway and ALB setup
+- Auto Scaling configuration
+- Bastion Host SSH access
+- Traffic routing and load balancing
+- Gained hands-on AWS deployment experience
+----
+
+## Project Insights
+This architecture provides a secure and highly available AWS environment using VPC, private subnets, NAT Gateway, ALB, and Auto Scaling to manage traffic distribution, scalability, and secure server communication.
+
+-----
