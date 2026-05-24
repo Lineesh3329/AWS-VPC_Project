@@ -5,7 +5,7 @@
 ------
 ## ASG Creation
 
-  1. Go to EC2 Dashboard ---> **Auto scaling Groups**
+  1. Go to EC2 ---> **Auto scaling Groups**
 
   2. Click Create Auto Scaling Groups
 
