@@ -13,7 +13,3 @@
 <img width="1101" height="302" alt="port80" src="https://github.com/user-attachments/assets/3c638396-74a6-4f89-be33-3a1ff83d0312" />
 
 ----
-
-<img width="1365" height="691" alt="output" src="https://github.com/user-attachments/assets/0f021fb6-579e-4264-9dc2-e3bf7821439c" />
-
------
