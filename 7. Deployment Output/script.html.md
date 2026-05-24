@@ -216,6 +216,9 @@ This **index.html** is deployed in this project
       </html>
 
 
+---
+This gives the below output:
 
-This gives the below output
+<img width="638" height="678" alt="image" src="https://github.com/user-attachments/assets/a6514d2f-55da-4f54-ba56-dd21f4c6a56a" />
 
+-----
